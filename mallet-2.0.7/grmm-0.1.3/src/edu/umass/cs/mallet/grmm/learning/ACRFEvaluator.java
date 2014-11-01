@@ -49,14 +49,20 @@ public abstract class ACRFEvaluator {
 	public abstract void test (InstanceList gold, List returned,
 														 String description);
 
-	public void test (ACRF acrf, InstanceList data, String description,File output) throws IOException
+	public void test (ACRF acrf, InstanceList data, String description) 
 	{
 		List ret = acrf.getBestLabels (data);
-		FileWriter fw = new FileWriter(output);
-		
-		fw.write(ret.toString());
+
 		test (data, ret, description);
 	}
+	public void test1 (ACRF acrf, InstanceList data, String description,File out) throws IOException
+  {
+    List ret = acrf.getBestLabels (data);
+    FileWriter fw = new FileWriter(out);
+    
+    fw.write(ret.toString());
+    test (data, ret, description);
+  }
 
 	private File outputPrefix;
 

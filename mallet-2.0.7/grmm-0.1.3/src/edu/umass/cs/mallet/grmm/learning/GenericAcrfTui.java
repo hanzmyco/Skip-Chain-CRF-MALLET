@@ -76,19 +76,55 @@ public class GenericAcrfTui {
 
   private static BshInterpreter interpreter = setupInterpreter ();
   
+  /**
+   * this is to get the trained model from disk
+   * @param acrf
+   * @param f
+   * @return
+   */
   public static ACRF Training(ACRF acrf,File f){
     acrf=(ACRF) FileUtils.readGzippedObject(f);
     return acrf;
   
   }
   
-  
-  public static void Decode(){
-    
+  /**
+   * training new acrf, this is the actual training
+   * @param acrf
+   * @param pipe
+   * @param tmpls
+   * @param inf
+   * @param maxInf
+   * @param training
+   * @param testing
+   * @param eval
+   * @return
+   */
+  public static ACRF Training(ACRF acrf,Pipe pipe,ACRF.Template[] tmpls,Inferencer inf, Inferencer maxInf,InstanceList training,InstanceList testing,ACRFEvaluator eval){
+    acrf = new ACRF (pipe, tmpls);
+    acrf.setInferencer (inf);
+    acrf.setViterbiInferencer (maxInf);
+
+    ACRFTrainer trainer = new ACRFTrainer ();
+    trainer.train (acrf, training, null, testing, eval, 9999);
+    //timing.tick ("Training");
+
+    FileUtils.writeGzippedObject (new File ("acrf.ser.gz"), acrf);
+    //timing.tick ("Serializing");
+    return acrf;
   }
+
   
-  public static void Testing(){
-    
+  /**
+   * test the test file, write the best tags predicted from the model to the out file
+   * @param eval
+   * @param acrf
+   * @param testing
+   * @param out
+   * @throws IOException
+   */
+  public static void Testing(ACRFEvaluator eval,ACRF acrf,InstanceList testing,File out) throws IOException{
+    eval.test1 (acrf, testing, "Testing",out);
   }
   
   
@@ -133,30 +169,20 @@ public class GenericAcrfTui {
     Inferencer maxInf = createInferencer (maxInferencerOption.value);
     
     
+    ACRF acrf=new ACRF();
+    //acrf=Training(acrf,pipe,tmpls,inf,maxInf,training,testing,eval);
     
-    //acrf=(ACRF) FileUtils.readGzippedObject(new File ("acrf.ser.gz"));
-    ACRF acrf=new ACRF();//=(ACRF) FileUtils.readGzippedObject(new File ("acrf.ser.gz"));
+    
+    
     File f=new File("acrf.ser.gz");
     acrf=Training(acrf,f);
     
-    File out=new File("out.test");
-    eval.test (acrf, testing, "Testing",out);
+    File out=new File("out.txt");
+    Testing(eval,acrf,testing,out);
     
-
-    /*
-    ACRF acrf = new ACRF (pipe, tmpls);
-    acrf.setInferencer (inf);
-    acrf.setViterbiInferencer (maxInf);
-
-    ACRFTrainer trainer = new ACRFTrainer ();
-    trainer.train (acrf, training, null, testing, eval, 9999);
-    timing.tick ("Training");
-
-    FileUtils.writeGzippedObject (new File ("acrf.ser.gz"), acrf);
-    timing.tick ("Serializing");
-    */
-
-    System.out.println ("Total time (ms) = " + timing.elapsedTime ());
+    
+    
+    
   }
 
   private static BshInterpreter setupInterpreter ()
