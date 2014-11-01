@@ -1,0 +1,32 @@
+Evaluation time (iteration 0) time (ms) =  0
+Evaluation time (iteration 1) time (ms) =  0
+Evaluation time (iteration 2) time (ms) =  0
+Evaluation time (iteration 3) time (ms) =  0
+Evaluation time (iteration 4) time (ms) =  0
+Evaluation time (iteration 5) time (ms) =  0
+Evaluation time (iteration 6) time (ms) =  0
+Evaluation time (iteration 7) time (ms) =  0
+Evaluation time (iteration 8) time (ms) =  0
+Evaluation time (iteration 9) time (ms) =  0
+Evaluation time (iteration 10) time (ms) =  8049
+Evaluation time (iteration 11) time (ms) =  0
+Evaluation time (iteration 12) time (ms) =  0
+Evaluation time (iteration 13) time (ms) =  0
+Evaluation time (iteration 14) time (ms) =  0
+Evaluation time (iteration 15) time (ms) =  0
+Evaluation time (iteration 16) time (ms) =  0
+Evaluation time (iteration 17) time (ms) =  0
+Evaluation time (iteration 18) time (ms) =  0
+Evaluation time (iteration 19) time (ms) =  0
+Evaluation time (iteration 20) time (ms) =  22007
+Evaluation time (iteration 21) time (ms) =  0
+Evaluation time (iteration 22) time (ms) =  0
+Evaluation time (iteration 23) time (ms) =  0
+Evaluation time (iteration 24) time (ms) =  0
+Evaluation time (iteration 25) time (ms) =  0
+epsilon = 0.0014090870198715936 tolerance=0.007045435099357968
+value=-17.910766783248064 epsilon=0.0014090870198715936 epsValue=-19.53079514253442 slope = -1149.700718578746 gradient=0.0756025086664635
+Evaluation time (iteration 27) time (ms) =  0
+Training time (ms) =  333938
+Serializing time (ms) =  1585
+Total time (ms) = 0

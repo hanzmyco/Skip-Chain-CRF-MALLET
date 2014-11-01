@@ -1,0 +1,2 @@
+new ACRF.BigramTemplate (0)
+new ACRF.PairwiseFactorTemplate (0)

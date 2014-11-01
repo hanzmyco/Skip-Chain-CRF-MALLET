@@ -1,0 +1,248 @@
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: help = false
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: prefix-code = null
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: help = false
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: prefix-code = null
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: model-file = tmpls.txt
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: training = featuretrain.txt
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: testing = featuretest.txt
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: num-labels = -1
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: inferencer = TRP
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: max-inferencer = TRP.createForMaxProduct()
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: eval = LOG
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: cache-graphs = false
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: use-token-text = false
+Oct 22, 2014 3:38:46 PM java.util.logging.LogManager$RootLogger log
+INFO: random-seed = 0
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [0] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [1] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [2] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [3] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [4] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [5] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [6] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [7] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [8] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [9] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [10] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [11] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [12] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [13] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [14] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [15] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [16] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [17] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [18] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [19] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [20] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [21] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [22] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [23] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [24] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [25] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [26] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [27] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [28] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [29] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [30] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [31] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [32] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [33] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [34] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [35] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [36] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [37] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [38] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [39] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [40] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [41] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [42] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [43] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [44] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [45] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [46] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [47] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [48] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [49] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [50] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [51] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [52] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [53] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [54] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [55] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [56] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [57] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [58] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [59] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [60] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [61] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [62] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd weights [63] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@70177ecd total num weights = 5968384
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [0] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [1] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [2] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [3] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [4] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [5] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [6] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [7] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [8] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [9] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [10] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [11] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [12] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [13] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [14] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [15] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [16] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [17] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [18] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [19] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [20] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [21] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [22] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [23] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [24] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [25] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [26] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [27] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [28] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [29] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [30] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [31] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [32] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [33] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [34] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [35] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [36] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [37] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [38] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [39] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [40] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [41] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [42] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [43] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [44] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [45] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [46] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [47] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [48] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [49] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [50] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [51] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [52] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [53] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [54] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [55] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [56] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [57] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [58] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [59] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [60] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [61] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [62] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f weights [63] num features 93255
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$PairwiseFactorTemplate@79fc0f2f total num weights = 5968384
+Number of training instances = 9328
+Number of parameters = 11936768
+Default feature index = 93255
+Using gaussian prior with variance 10.0
+ACRF trainer iteration 0 at time 0
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 3 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 3 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 3 iterations.
+TRP used 3 iterations.
+TRP used 4 iterations.
+TRP used 6 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 2 iterations.
+TRP used 7 iterations.
+java.lang.NullPointerException
+	at edu.umass.cs.mallet.grmm.types.AbstractTableFactor.expandToContain(AbstractTableFactor.java:575)
+	at edu.umass.cs.mallet.grmm.types.AbstractTableFactor.multiplyBy(AbstractTableFactor.java:598)
+	at edu.umass.cs.mallet.grmm.inference.AbstractBeliefPropagation.lookupMarginal(AbstractBeliefPropagation.java:461)
+	at edu.umass.cs.mallet.grmm.inference.AbstractBeliefPropagation.lookupMarginal(AbstractBeliefPropagation.java:446)
+	at edu.umass.cs.mallet.grmm.learning.ACRF$MaximizableACRF.collectExpectations(ACRF.java:1385)
+	at edu.umass.cs.mallet.grmm.learning.ACRF$MaximizableACRF.computeLogLikelihood(ACRF.java:1204)
+	at edu.umass.cs.mallet.grmm.learning.ACRF$MaximizableACRF.getValue(ACRF.java:1133)
+	at edu.umass.cs.mallet.base.maximize.LimitedMemoryBFGS.maximize(LimitedMemoryBFGS.java:82)
+	at edu.umass.cs.mallet.grmm.learning.ACRFTrainer.train(ACRFTrainer.java:179)
+	at edu.umass.cs.mallet.grmm.learning.ACRFTrainer.train(ACRFTrainer.java:92)
+	at edu.umass.cs.mallet.grmm.learning.GenericAcrfTui.main(GenericAcrfTui.java:123)
+Exception in iteration 0:java.lang.NullPointerException
+  Resetting LBFGs and trying again...
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 3 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 3 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 3 iterations.
+TRP used 4 iterations.
+TRP used 4 iterations.
+TRP used 6 iterations.
+TRP used 2 iterations.
+TRP used 2 iterations.
+TRP used 3 iterations.
+TRP used 2 iterations.
+TRP used 7 iterations.
+Exception in thread "main" java.lang.NullPointerException
+	at edu.umass.cs.mallet.grmm.types.AbstractTableFactor.expandToContain(AbstractTableFactor.java:575)
+	at edu.umass.cs.mallet.grmm.types.AbstractTableFactor.multiplyBy(AbstractTableFactor.java:598)
+	at edu.umass.cs.mallet.grmm.inference.AbstractBeliefPropagation.lookupMarginal(AbstractBeliefPropagation.java:461)
+	at edu.umass.cs.mallet.grmm.inference.AbstractBeliefPropagation.lookupMarginal(AbstractBeliefPropagation.java:446)
+	at edu.umass.cs.mallet.grmm.learning.ACRF$MaximizableACRF.collectExpectations(ACRF.java:1385)
+	at edu.umass.cs.mallet.grmm.learning.ACRF$MaximizableACRF.computeLogLikelihood(ACRF.java:1204)
+	at edu.umass.cs.mallet.grmm.learning.ACRF$MaximizableACRF.getValue(ACRF.java:1133)
+	at edu.umass.cs.mallet.grmm.learning.ACRFTrainer.train(ACRFTrainer.java:204)
+	at edu.umass.cs.mallet.grmm.learning.ACRFTrainer.train(ACRFTrainer.java:92)
+	at edu.umass.cs.mallet.grmm.learning.GenericAcrfTui.main(GenericAcrfTui.java:123)

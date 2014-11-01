@@ -1,0 +1,335 @@
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: help = false
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: prefix-code = null
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: help = false
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: prefix-code = null
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: model-file = tmpls.txt
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: training = train
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: testing = test
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: num-labels = -1
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: inferencer = TRP
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: max-inferencer = TRP.createForMaxProduct()
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: eval = LOG
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: cache-graphs = false
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: use-token-text = false
+Sep 14, 2014 8:46:44 PM java.util.logging.LogManager$RootLogger log
+INFO: random-seed = 0
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@5fdce46d weights [0] num features 5298
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@5fdce46d weights [1] num features 5298
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@5fdce46d weights [2] num features 5298
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@5fdce46d weights [3] num features 5298
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@5fdce46d weights [4] num features 5298
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@5fdce46d weights [5] num features 5298
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@5fdce46d weights [6] num features 5298
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@5fdce46d weights [7] num features 5298
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@5fdce46d weights [8] num features 5298
+ACRF template edu.umass.cs.mallet.grmm.learning.ACRF$BigramTemplate@5fdce46d total num weights = 47691
+Number of training instances = 1
+Number of parameters = 47691
+Default feature index = 5298
+Using gaussian prior with variance 10.0
+ACRF trainer iteration 0 at time 0
+TRP used 2 iterations.
+ACRF Inference time (ms) = 414
+ACRF unroll time (ms) = 62
+getValue (loglikelihood) = -1038.1886127913358
+getValue() (loglikelihood) = -1038.1886127913358
+TRP used 2 iterations.
+ACRF Inference time (ms) = 141
+ACRF unroll time (ms) = 21
+getValue (loglikelihood) = -586.3129729953547
+getValue() (loglikelihood) = -586.3129729953547
+TRP used 2 iterations.
+ACRF Inference time (ms) = 124
+ACRF unroll time (ms) = 9
+getValue (loglikelihood) = -400.08857234719716
+getValue() (loglikelihood) = -400.08857234719716
+ACRF trainer iteration 1 at time 712
+TRP used 2 iterations.
+ACRF Inference time (ms) = 85
+ACRF unroll time (ms) = 9
+getValue (loglikelihood) = -262.82152474073695
+getValue() (loglikelihood) = -262.82152474073695
+ACRF trainer iteration 2 at time 807
+TRP used 2 iterations.
+ACRF Inference time (ms) = 88
+ACRF unroll time (ms) = 9
+getValue (loglikelihood) = -192.5584366025103
+getValue() (loglikelihood) = -192.5584366025103
+ACRF trainer iteration 3 at time 905
+TRP used 2 iterations.
+ACRF Inference time (ms) = 86
+ACRF unroll time (ms) = 10
+getValue (loglikelihood) = -115.96259989078837
+getValue() (loglikelihood) = -115.96259989078837
+ACRF trainer iteration 4 at time 995
+TRP used 2 iterations.
+ACRF Inference time (ms) = 91
+ACRF unroll time (ms) = 12
+getValue (loglikelihood) = -52.103897856204895
+getValue() (loglikelihood) = -52.103897856204895
+ACRF trainer iteration 5 at time 1090
+TRP used 2 iterations.
+ACRF Inference time (ms) = 58
+ACRF unroll time (ms) = 6
+getValue (loglikelihood) = -45.792962212320425
+getValue() (loglikelihood) = -45.792962212320425
+ACRF trainer iteration 6 at time 1152
+TRP used 2 iterations.
+ACRF Inference time (ms) = 75
+ACRF unroll time (ms) = 6
+getValue (loglikelihood) = -17.251263405629786
+getValue() (loglikelihood) = -17.251263405629786
+ACRF trainer iteration 7 at time 1230
+TRP used 2 iterations.
+ACRF Inference time (ms) = 61
+ACRF unroll time (ms) = 5
+getValue (loglikelihood) = -14.88366071554476
+getValue() (loglikelihood) = -14.88366071554476
+ACRF trainer iteration 8 at time 1296
+TRP used 2 iterations.
+ACRF Inference time (ms) = 56
+ACRF unroll time (ms) = 5
+getValue (loglikelihood) = -12.470074387658318
+getValue() (loglikelihood) = -12.470074387658318
+ACRF trainer iteration 9 at time 1355
+TRP used 2 iterations.
+ACRF Inference time (ms) = 59
+ACRF unroll time (ms) = 6
+getValue (loglikelihood) = -11.170591204009227
+getValue() (loglikelihood) = -11.170591204009227
+ACRF trainer iteration 10 at time 1417
+TRP used 2 iterations.
+ACRF Inference time (ms) = 79
+ACRF unroll time (ms) = 5
+getValue (loglikelihood) = -10.206695123272716
+getValue() (loglikelihood) = -10.206695123272716
+TRP used 2 iterations.
+Training: Number of instances = 1
+Training:  i	Label	N	Correct	Returned	P	R	F1
+Training:  0	B	239	239	239	1.0	1.0	1.0	
+Training:  1	O	431	431	431	1.0	1.0	1.0	
+Training:  2	I	275	275	275	1.0	1.0	1.0	
+Training:  Factor 0 accuracy: (945 945) 1.0
+Training CorrectT 945  maxt 945
+Training Joint accuracy: 1.0
+TRP used 2 iterations.
+Testing: Number of instances = 1
+Testing:  i	Label	N	Correct	Returned	P	R	F1
+Testing:  0	B	257	186	219	0.8493150684931506	0.7237354085603113	0.7815126050420168	
+Testing:  1	O	355	338	449	0.7527839643652561	0.952112676056338	0.8407960199004973	
+Testing:  2	I	336	259	280	0.925	0.7708333333333334	0.840909090909091	
+Testing:  Factor 0 accuracy: (783 948) 0.8259493670886076
+Testing CorrectT 783  maxt 948
+Testing Joint accuracy: 0.8259493670886076
+ACRF trainer iteration 11 at time 1624
+TRP used 2 iterations.
+ACRF Inference time (ms) = 48
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -9.516414504193277
+getValue() (loglikelihood) = -9.516414504193277
+ACRF trainer iteration 12 at time 1675
+TRP used 2 iterations.
+ACRF Inference time (ms) = 48
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -9.000778465305546
+getValue() (loglikelihood) = -9.000778465305546
+ACRF trainer iteration 13 at time 1727
+TRP used 2 iterations.
+ACRF Inference time (ms) = 50
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -8.952283837627187
+getValue() (loglikelihood) = -8.952283837627187
+ACRF trainer iteration 14 at time 1780
+TRP used 2 iterations.
+ACRF Inference time (ms) = 58
+ACRF unroll time (ms) = 2
+getValue (loglikelihood) = -8.681950660380688
+getValue() (loglikelihood) = -8.681950660380688
+ACRF trainer iteration 15 at time 1842
+TRP used 2 iterations.
+ACRF Inference time (ms) = 48
+ACRF unroll time (ms) = 2
+getValue (loglikelihood) = -8.618901861764195
+getValue() (loglikelihood) = -8.618901861764195
+ACRF trainer iteration 16 at time 1894
+TRP used 2 iterations.
+ACRF Inference time (ms) = 48
+ACRF unroll time (ms) = 2
+getValue (loglikelihood) = -8.524852783924556
+getValue() (loglikelihood) = -8.524852783924556
+ACRF trainer iteration 17 at time 1946
+TRP used 2 iterations.
+ACRF Inference time (ms) = 49
+ACRF unroll time (ms) = 2
+getValue (loglikelihood) = -8.437599755322356
+getValue() (loglikelihood) = -8.437599755322356
+ACRF trainer iteration 18 at time 1999
+TRP used 2 iterations.
+ACRF Inference time (ms) = 49
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -8.3476815505914
+getValue() (loglikelihood) = -8.3476815505914
+ACRF trainer iteration 19 at time 2051
+TRP used 2 iterations.
+ACRF Inference time (ms) = 49
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -8.273369993013985
+getValue() (loglikelihood) = -8.273369993013985
+ACRF trainer iteration 20 at time 2103
+TRP used 2 iterations.
+ACRF Inference time (ms) = 57
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -8.22898657984503
+getValue() (loglikelihood) = -8.22898657984503
+TRP used 2 iterations.
+Training: Number of instances = 1
+Training:  i	Label	N	Correct	Returned	P	R	F1
+Training:  0	B	239	239	239	1.0	1.0	1.0	
+Training:  1	O	431	431	431	1.0	1.0	1.0	
+Training:  2	I	275	275	275	1.0	1.0	1.0	
+Training:  Factor 0 accuracy: (945 945) 1.0
+Training CorrectT 945  maxt 945
+Training Joint accuracy: 1.0
+TRP used 2 iterations.
+Testing: Number of instances = 1
+Testing:  i	Label	N	Correct	Returned	P	R	F1
+Testing:  0	B	257	189	221	0.8552036199095022	0.7354085603112841	0.7907949790794978	
+Testing:  1	O	355	331	430	0.7697674418604651	0.9323943661971831	0.843312101910828	
+Testing:  2	I	336	267	297	0.898989898989899	0.7946428571428571	0.8436018957345972	
+Testing:  Factor 0 accuracy: (787 948) 0.830168776371308
+Testing CorrectT 787  maxt 948
+Testing Joint accuracy: 0.830168776371308
+ACRF trainer iteration 21 at time 2295
+TRP used 2 iterations.
+ACRF Inference time (ms) = 74
+ACRF unroll time (ms) = 4
+getValue (loglikelihood) = -8.204590559141531
+getValue() (loglikelihood) = -8.204590559141531
+ACRF trainer iteration 22 at time 2373
+TRP used 2 iterations.
+ACRF Inference time (ms) = 73
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -8.18340667690441
+getValue() (loglikelihood) = -8.18340667690441
+ACRF trainer iteration 23 at time 2450
+TRP used 2 iterations.
+ACRF Inference time (ms) = 52
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -8.167208014479494
+getValue() (loglikelihood) = -8.167208014479494
+ACRF trainer iteration 24 at time 2504
+TRP used 2 iterations.
+ACRF Inference time (ms) = 49
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -8.153699989981062
+getValue() (loglikelihood) = -8.153699989981062
+ACRF trainer iteration 25 at time 2557
+TRP used 2 iterations.
+ACRF Inference time (ms) = 49
+ACRF unroll time (ms) = 2
+getValue (loglikelihood) = -8.140051171740202
+getValue() (loglikelihood) = -8.140051171740202
+ACRF trainer iteration 26 at time 2609
+TRP used 2 iterations.
+ACRF Inference time (ms) = 63
+ACRF unroll time (ms) = 2
+getValue (loglikelihood) = -8.133394400078277
+getValue() (loglikelihood) = -8.133394400078277
+ACRF trainer iteration 27 at time 2676
+TRP used 2 iterations.
+ACRF Inference time (ms) = 56
+ACRF unroll time (ms) = 4
+getValue (loglikelihood) = -8.127093701669233
+getValue() (loglikelihood) = -8.127093701669233
+ACRF trainer iteration 28 at time 2736
+TRP used 2 iterations.
+ACRF Inference time (ms) = 60
+ACRF unroll time (ms) = 13
+getValue (loglikelihood) = -8.118178407146567
+getValue() (loglikelihood) = -8.118178407146567
+ACRF trainer iteration 29 at time 2800
+TRP used 2 iterations.
+ACRF Inference time (ms) = 55
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -8.117161789800798
+getValue() (loglikelihood) = -8.117161789800798
+ACRF trainer iteration 30 at time 2857
+TRP used 2 iterations.
+ACRF Inference time (ms) = 53
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -8.112650577358137
+getValue() (loglikelihood) = -8.112650577358137
+TRP used 2 iterations.
+Training: Number of instances = 1
+Training:  i	Label	N	Correct	Returned	P	R	F1
+Training:  0	B	239	239	239	1.0	1.0	1.0	
+Training:  1	O	431	431	431	1.0	1.0	1.0	
+Training:  2	I	275	275	275	1.0	1.0	1.0	
+Training:  Factor 0 accuracy: (945 945) 1.0
+Training CorrectT 945  maxt 945
+Training Joint accuracy: 1.0
+TRP used 2 iterations.
+Testing: Number of instances = 1
+Testing:  i	Label	N	Correct	Returned	P	R	F1
+Testing:  0	B	257	194	224	0.8660714285714286	0.754863813229572	0.8066528066528067	
+Testing:  1	O	355	334	431	0.7749419953596288	0.9408450704225352	0.8498727735368957	
+Testing:  2	I	336	267	293	0.9112627986348123	0.7946428571428571	0.8489666136724959	
+Testing:  Factor 0 accuracy: (795 948) 0.8386075949367089
+Testing CorrectT 795  maxt 948
+Testing Joint accuracy: 0.8386075949367089
+ACRF trainer iteration 31 at time 3004
+TRP used 2 iterations.
+ACRF Inference time (ms) = 51
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -8.108974175390113
+getValue() (loglikelihood) = -8.108974175390113
+ACRF trainer iteration 32 at time 3058
+TRP used 2 iterations.
+ACRF Inference time (ms) = 53
+ACRF unroll time (ms) = 4
+getValue (loglikelihood) = -8.105704939039834
+getValue() (loglikelihood) = -8.105704939039834
+ACRF trainer iteration 33 at time 3117
+TRP used 2 iterations.
+ACRF Inference time (ms) = 51
+ACRF unroll time (ms) = 4
+getValue (loglikelihood) = -8.104363984490771
+getValue() (loglikelihood) = -8.104363984490771
+ACRF trainer iteration 34 at time 3172
+TRP used 2 iterations.
+ACRF Inference time (ms) = 50
+ACRF unroll time (ms) = 3
+getValue (loglikelihood) = -8.10342882261719
+getValue() (loglikelihood) = -8.10342882261719
+ACRF trainer iteration 35 at time 3226
+TRP used 2 iterations.
+ACRF Inference time (ms) = 50
+ACRF unroll time (ms) = 2
+getValue (loglikelihood) = -8.103083329677453
+getValue() (loglikelihood) = -8.103083329677453
+Exiting L-BFGS on termination #1:
+value difference below tolerance (oldValue: -8.10342882261719 newValue: -8.103083329677453
+ACRF training time (ms) = 3280
+Total messages sent = 286976
+TRP used 2 iterations.
+Testing: Number of instances = 1
+Testing:  i	Label	N	Correct	Returned	P	R	F1
+Testing:  0	B	257	196	226	0.8672566371681416	0.7626459143968871	0.8115942028985507	
+Testing:  1	O	355	336	430	0.7813953488372093	0.9464788732394366	0.8560509554140128	
+Testing:  2	I	336	269	292	0.9212328767123288	0.8005952380952381	0.856687898089172	
+Testing:  Factor 0 accuracy: (801 948) 0.8449367088607594
+Testing CorrectT 801  maxt 948
+Testing Joint accuracy: 0.8449367088607594
